@@ -33,6 +33,10 @@ I particularly enjoy taking an idea from a research paper, implementing it, and 
 
 ### 🤝 Let's Connect
 
-I'm always happy to connect with people interested in **machine learning, AI research, systems, security, and software engineering**.
+I'm always open to discussing research ideas, collaborations,
+and opportunities in AI, machine learning, systems, and software development.
 
-Whether it's discussing a paper, collaborating on a project, or sharing something interesting you're building, feel free to reach out!
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile/)
+
+Feel free to reach out!
