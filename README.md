@@ -31,12 +31,11 @@ I particularly enjoy taking an idea from a research paper, implementing it, and 
 - 🎧 Listening to podcasts about technology, startups, and business models.
 - 📚 Exploring interesting problems in mathematics, physics, and theoretical computer science.
 
-### 🤝 Let's Connect
+### 🤝 Connect with Me
 
-I'm always open to discussing research ideas, collaborations,
-and opportunities in AI, machine learning, systems, and software development.
-
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupvt51@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-936750267/)
 
 Feel free to reach out!
+
+
